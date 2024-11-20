@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px solid black;
+    width: 960px;
+    height: 960px;
+    margin: auto;
+}
